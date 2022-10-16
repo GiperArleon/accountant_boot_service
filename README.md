@@ -1,1 +1,2 @@
-# accountant_boot_service
+# accountant service
+сервис бухгалтер
